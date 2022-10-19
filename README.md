@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @innov-max
 - 👀 I’m interested in android development, web development and robotics
-- 🌱 I’m currently learning computer science nad android development
+- 🌱 I’m currently learning computer science & android development
 - 💞️ I’m looking to collaborate on owesome android projects and web applications
 - 📫 you can reach me via my email maxwellokoth18@gmail.com or +254774909759
