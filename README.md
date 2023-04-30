@@ -1,6 +1,7 @@
 Welcome to my GitHub profile!
 
 My name is Innov-Max, and I am a junior Android developer with a passion for web development and robotics. I am always looking for exciting opportunities to collaborate on awesome Android projects and web applications.
+
 Skills
 
     Android development (Java and Kotlin)
