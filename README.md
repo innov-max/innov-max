@@ -4,9 +4,11 @@ I'm a junior Android developer with a passion for web development and robotics. 
 
 ## Skills
 
-- Android development (Java and Kotlin)
-- Web development (HTML, CSS, JavaScript, and PHP)
+- :disguised_face: Android development (Java and Kotlin)
+- :1st_place_medal: Web development (HTML, CSS, JavaScript, and PHP)
 - Robotics (Arduino)
+- :heart: I'm Mostly Active in the Android & IOT space
+- :kenya: :kenya: :kenya: :kenya:
 
 ## Projects
 
@@ -26,9 +28,9 @@ Feel free to contact me via email at maxwellokoth18@gmail.com or by phone at +25
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-InnovMax-blue)](https://www.linkedin.com/in/MaxwellOpondo/)
 [![Instagram](https://img.shields.io/badge/Instagram-InnovMax-yellow)](https://www.instagram.com/innov_max/)
 
-## Thanks for visiting my profile!
+## Stats
 ![innov-max's Stats](https://github-readme-stats.vercel.app/api?username=innov-max&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![innov-max's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innov-max&theme=synthwave&hide_border=true)
 ![innov-max's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innov-max&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![Robotics](https://github.com/your-username/your-username/blob/main/images/robotics.jpg?raw=true)
+## Thanks for visiting my profile!
