@@ -27,5 +27,10 @@ Feel free to contact me via email at maxwellokoth18@gmail.com or by phone at +25
 [![Instagram](https://img.shields.io/badge/Instagram-InnovMax-yellow)](https://www.instagram.com/innov_max/)
 
 ## Thanks for visiting my profile!
+![innov-max's Stats](https://github-readme-stats.vercel.app/api?username=innov-max&theme=prussian&show_icons=true&hide_border=false&count_private=true)
+
+![innov-max's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innov-max&theme=prussian&hide_border=false)
+
+![innov-max's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innov-max&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ![Robotics](https://github.com/your-username/your-username/blob/main/images/robotics.jpg?raw=true)
