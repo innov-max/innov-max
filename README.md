@@ -6,7 +6,7 @@ I'm a junior Android developer with a passion for web development and robotics. 
 
 - :disguised_face: Android development (Java and Kotlin)
 - :1st_place_medal: Web development (HTML, CSS, JavaScript, and PHP)
-- Robotics (Arduino)
+- :leo: Robotics (Arduino)
 - :heart: I'm Mostly Active in the Android & IOT space
 - :kenya: :kenya: :kenya: :kenya:
 
