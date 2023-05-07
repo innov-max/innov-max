@@ -30,7 +30,7 @@ Feel free to contact me via email at maxwellokoth18@gmail.com or by phone at +25
 
 ## Stats
 ![innov-max's Stats](https://github-readme-stats.vercel.app/api?username=innov-max&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![innov-max's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innov-max&theme=synthwave&hide_border=true)
 ![innov-max's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innov-max&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![innov-max's Streak](https://github-readme-streak-stats.herokuapp.com/?user=innov-max&theme=synthwave&hide_border=true)
 
 ## Thanks for visiting my profile!
