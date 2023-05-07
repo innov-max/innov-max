@@ -4,7 +4,7 @@ My name is Innov-Max, and I am a junior Android developer with a passion for web
 
 Skills
 
-    Android development (Java and Kotlin)
+    [![Badge Label](https://img.shields.io/badge/Android-Developer-brightgreen)](Android) Android development (Java and Kotlin)
     Web development (HTML, CSS, JavaScript, and PHP)
     Robotics (Arduino)
 
