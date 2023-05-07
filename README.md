@@ -10,7 +10,7 @@ I'm a junior Android developer with a passion for web development and robotics. 
 - :heart: I'm Mostly Active in the Android & IOT space
 - :kenya: :kenya: :kenya: :kenya:
 
-## language
+## languages
 . kt .java . c++
 
 
