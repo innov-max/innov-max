@@ -22,9 +22,9 @@ Feel free to contact me via email at maxwellokoth18@gmail.com or by phone at +25
 
 ## Social Media
 
-[![Twitter](https://img.shields.io/badge/Twitter-InnovMax-blue)](https://twitter.com/InnovMax)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-InnovMax-blue)](https://www.linkedin.com/in/innovmax/)
-[![Instagram](https://img.shields.io/badge/Instagram-InnovMax-yellow)](https://www.instagram.com/innovmax/)
+[![Twitter](https://img.shields.io/badge/Twitter-InnovMax-blue)](https://twitter.com/Innov_Max)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-InnovMax-blue)](https://www.linkedin.com/in/Maxwell Opondo/)
+[![Instagram](https://img.shields.io/badge/Instagram-InnovMax-yellow)](https://www.instagram.com/innov_max/)
 
 ## Thanks for visiting my profile!
 
