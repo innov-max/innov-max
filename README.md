@@ -1,6 +1,6 @@
 # Hello, I'm Innov-Max! 👋
 
-I'm a junior Android developer with a passion for robotics  & micro-controlling. I'm always open to thrilling Mobile dev & Robotics projects & contributions.
+I'm a junior Android developer with a passion for robotics & microcontrolling. I'm always open to thrilling mobile development & robotics projects & contributions.
 
 # skills
 
