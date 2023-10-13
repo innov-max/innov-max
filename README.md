@@ -27,7 +27,7 @@ Check out some of my latest projects on GitHub:
 
 # Contact
 
-Feel free to contact me via email at maxwellokoth18@gmail.com or by phone at +254774909759. I am always open to new opportunities and collaborations.
+Feel free to contact me . I am always open to new opportunities and collaborations.
 
 # Social Media
 
