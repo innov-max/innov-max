@@ -7,7 +7,7 @@ I'm a junior Android developer with a passion for robotics & microcontrolling. I
 - :disguised_face: Android development (Java and Kotlin)
 
 - :heart: I'm Mostly Active in the Android, IOT, Robotics  & Computer Vision space
-- :kenya: :kenya: :Namibia: :Namibia:
+- :kenya: :kenya: :namibia: :namibia:
 
 
 ## 💻 Tech Stack:
