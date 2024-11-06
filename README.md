@@ -1,4 +1,4 @@
-# Hello, I'm Innov-Max! 👋
+# Hello, I'm Innov-Max 👋 I'm also as confused as you are right now!
 
 Android [ ML ] Robotics
 
