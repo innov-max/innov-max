@@ -44,4 +44,4 @@ Feel free to contact me . I am always open to new opportunities and collaboratio
 ### ✍️  Dev Q
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Thanks for visiting my profile!
+## It's never that serious
