@@ -20,7 +20,7 @@ Android [ ML ] Robotics
 Check out some of my latest projects on GitHub:
 
 - [![Housing Tracker](https://img.shields.io/badge/Android-Expense%20Tracker-blue)](https://github.com/innov-max/EMA) - A simple Android app that allows users to track their housing needs and Rentals
-- [![Task Planner](https://img.shields.io/badge/Web-Task%20Planner-green)](https://github.com/your-username/task-planner) - A web app that helps users plan and organize their daily tasks
+- [![Task Planner](https://img.shields.io/badge/Web-Task%20Planner-green)](https://github.com/your-username/task-planner) 
 - [![Obstacle Avoiding Robot](https://img.shields.io/badge/Robotics-Obstacle%20Avoiding%20Robot-red)](https://github.com/your-username/obstacle-avoiding-robot) - An Arduino-based robot that can navigate and avoid obstacles
 
 ## Contact
